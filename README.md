@@ -1,5 +1,7 @@
 # odin-recipes
 
+First full project from The Odin Project course.
+
 This will be an HTML-only project to test my recently learned HTML skills.
 
 Objectives: 
