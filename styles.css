@@ -1,0 +1,17 @@
+body {
+    width: 80%;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+ul, ol {
+    text-align: left;
+}
